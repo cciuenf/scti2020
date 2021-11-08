@@ -125,12 +125,11 @@ main {
   font-size: .8em; }
 
 .gradient {
-  background: #155799;
-  background: linear-gradient(225deg, #460336 0%, #01366c 100%); 
+  background: linear-gradient(59.78deg, #0C7DD8 5.87%, #4375E8 29.67%, #6D6BF1 56.39%, #A94EF1 76.79%, #CD24E8 99.13%);
 }
 
 .text-gradient {
-  background: linear-gradient(225deg,#460336 0%,#01366c 100%);
+   background: linear-gradient(59.78deg, #0C7DD8 5.87%, #4375E8 29.67%, #6D6BF1 56.39%, #A94EF1 76.79%, #CD24E8 99.13%);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent; }
@@ -208,7 +207,7 @@ main {
   height: 2px;
   position: absolute;
   background: #155799;
-  background: linear-gradient(225deg,#460336 0%,#01366c 100%);
+  background: linear-gradient(59.78deg, #0C7DD8 5.87%, #4375E8 29.67%, #6D6BF1 56.39%, #A94EF1 76.79%, #CD24E8 99.13%);
   left: 50%;
   bottom: 0;
   transform: translate(-50%); }
